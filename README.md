@@ -1,2 +1,39 @@
 # boost-yoast-analysis-cfs
 Boost Yoast Analysis CFS
+
+=== Boost Yoast Analysis CFS ===
+
+Contributors: gr8nilay
+
+License: GPLv3
+
+License URI: http://www.gnu.org/licenses/gpl.html
+
+Tags: SEO, yoast seo analysis booster, boost analysis, cfs, include, custom fields to yoast
+
+Requires at least: 4.6
+
+Tested up to: 5.2.1
+
+Stable tag: 5.2.1
+
+This plugin will include your custom fields ( created with Custom Field Suite plugin ) for Yoast SEO Analysis Calculation
+
+== Description ==
+
+This plugin will include your created custom fields through Custom Field Suite plugin for Yoast SEO Analysis Calculation.
+
+<strong>Read this first:</strong>
+This is only for pages not the custom post types or other default post types. 
+
+
+== Installation ==
+
+1. Extract the zip file into your /wp-content/plugins/ directory
+2. Activate the plugin through the 'Plugins' menu in WordPress
+1. On activation it will hide all the theme updates
+
+== Changelog ==
+
+= 1.0 =
+First Release of plugin
